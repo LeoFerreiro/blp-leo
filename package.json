@@ -4,9 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "node server.mjs",
+    "dev": "node build.mjs --serve",
     "build": "node build.mjs",
-    "preview": "node server.mjs"
+    "preview": "node build.mjs --serve"
   },
   "dependencies": {},
   "devDependencies": {}
