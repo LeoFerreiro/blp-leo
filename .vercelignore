@@ -1,0 +1,7 @@
+server.mjs
+vite.config.mjs
+design-qa.md
+AGENTS.md
+.npm-cache/
+node_modules/
+dist/
